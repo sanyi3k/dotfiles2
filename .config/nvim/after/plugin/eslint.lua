@@ -1,0 +1,18 @@
+-- local eslint = require("eslint")
+--
+-- eslint.setup({
+--   bin = 'eslint_d', -- or `eslint_d`
+--   code_actions = {
+--     enable = true,
+--     disable_rule_comment = {
+--       enable = true,
+--       location = "separate_line", -- or `same_line`
+--     },
+--   },
+--   diagnostics = {
+--     enable = true,
+--     report_unused_disable_directives = false,
+--     run_on = "type", -- or `save`
+--   },
+-- })
+-- remove ID : #2022-12-30-1
